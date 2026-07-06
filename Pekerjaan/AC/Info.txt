@@ -1,0 +1,7 @@
+Struktur Folder :
+- Folder Tahun
+- Folder Bulan
+- Folder Bulan
+- Folder Dengan Nama Pelanggan
+  * 1 File .txt dengan nama #namapekerjaan_#namapelanggan kemudian ini dengan rincian laporan pekerjaan.
+  * Folder foto documentasi pekerjaan.
