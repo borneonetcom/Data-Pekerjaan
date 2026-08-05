@@ -1,0 +1,22 @@
+FORMAT LAPORAN
+
+Tanggal : 1 agustus 2026
+Nama User : smkn 1 tanjung
+Lokasi Pekerjaan : pembataan dekat smt pandopo
+
+Keluhan : kamera cctv mati 8 biji dan 1 kamera minta pindah kan arah ny 
+
+Tindakan : perbaikan cctv 8 biji, 
+•6 kamera ganti konektor, 
+•1 kamera hilang arus lalu dijamper
+•1 kamera lagi rusak perlu di ganti yang baru
+•1 kamera di atur kan arah ny jdi maksimal 
+
+Material Yang Terpakai: 
+•konektor bnc 9 buting
+•konektor dc 8 buting
+•duradus 1
+•kamera proview indor yang tidak ber audio 
+
+Nama pekerja: pani, maliki
+Lampirkan foto pekerjaan

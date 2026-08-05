@@ -1,0 +1,15 @@
+*FORMAT LAPORAN*
+
+Tanggal : 01 Juli 2026
+Nama User : Toko Vape
+Lokasi Pekerjaan : Sulingan
+
+Keluhan : kamera copot bekas tukang, kabel putus, baterai jam mesin habis
+
+Tindakan : 1 kamera dipasang, 2 kabel disambungkan, baterai jam mesin diganti
+
+Material Yang Terpakai : konektor bnc 2, konektor DC 2, baterai jam mesin
+
+
+Nama pekerja: rindi
+*Lampirkan foto*

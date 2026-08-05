@@ -1,0 +1,7 @@
+*Tanggal:* 6 juli 2026
+*Nama PIC/Pemilik :* BPKAD
+*Jenis Unit :* Laptop 
+*Merk/Type Unit :* Samsung
+*Keluhan :* Windows blue screen
+*Hasil pemeriksaan:* perlu instal ulang
+*Tindakan:* instal ulang windows 10

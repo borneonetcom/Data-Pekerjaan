@@ -1,0 +1,21 @@
+*FORMAT LAPORAN*
+
+Tanggal : 29 Juli 2026
+Nama User : DLH
+Lokasi Pekerjaan : Tanjung selatan 
+
+Keluhan : Pindah modem, mesin cctv mati
+
+Tindakan : 
+- Pemindahan modem dari ruang kepala dinas ke kantor depan
+- adaptor mesin belum diganti karena belum sempat
+
+Material yang terpakai : 
+- kabel LAN Belden
+- konektor LAN 3 set
+- kabel listrik 4 meter
+- colokan broco putih 
+- colokan bini
+
+Nama pekerja: muthai, Aldi, rindi
+*Lampirkan foto*

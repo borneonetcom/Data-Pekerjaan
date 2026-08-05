@@ -1,0 +1,6 @@
+tanggal: 20 juni 2026
+Nama PIC/Pemilik : Dinas sosial
+*Jenis Unit*: Laptop
+*Merk/Type Unit :* Acer
+*Keluhan :* -
+*Tindakan* : instalasi Laptop acer baru 2 unit

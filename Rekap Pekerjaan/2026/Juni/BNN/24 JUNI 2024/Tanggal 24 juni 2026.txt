@@ -1,0 +1,6 @@
+*Tanggal:* 24 juni 2026
+*Nama PIC/Pemilik :* BNN
+*Jenis Unit*: Laptop
+*Merk/Type Unit :* Asus X441U
+*Keluhan :* Touchpad tidak berfungsi dan keyboard tenggelam
+*Tindakan* : Perbaikan kabel fleksibel dan solder keyboard yang tenggelam

@@ -1,0 +1,7 @@
+*Tanggal:* 29-Juni-2025
+ *Nama PIC/Pemilik :* BKPSDM
+ *Jenis Unit*: PC
+ *Merk/Type Unit :* -
+ *Keluhan :*  Booting error 
+ *Tindakan :* Setting bios
+ *Teknisi* : Akbar/Pa arip

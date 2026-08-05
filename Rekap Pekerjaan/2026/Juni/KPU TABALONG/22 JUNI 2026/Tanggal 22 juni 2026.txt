@@ -1,0 +1,7 @@
+*Tanggal:* 22 juni 2026
+*Nama PIC/Pemilik :* Kpu Tabalong
+*Jenis Unit :* Mesin absensi fingerprint
+*Merk/Type Unit :* hikvision
+*Keluhan :* mesin offline jadi tidak bisa tarik data
+*Tindakan* : setting ip address agar mesin online
+*Nama teknisi :* Arif, akbar

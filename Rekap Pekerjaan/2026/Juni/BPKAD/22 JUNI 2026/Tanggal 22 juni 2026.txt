@@ -1,0 +1,7 @@
+*Tanggal:* 22 juni 2026
+*Nama PIC/Pemilik :* BPKAD
+*Jenis Unit :* Printer
+*Merk/Type Unit :* Epson L1455
+*Keluhan :* Tidak bisa print karna maintenance box full
+*Tindakan* : Ganti maintenance box baru
+*Nama teknisi :* Arif, akbar

@@ -1,0 +1,6 @@
+tanggal: 20 juni 2026
+Nama PIC/Pemilik : Dinas sosial
+*Jenis Unit*:  AIO
+*Merk/Type Unit :* Lenovo
+*Keluhan :* -
+*Tindakan* : instalasi Lenovo AIO baru 1 unit
