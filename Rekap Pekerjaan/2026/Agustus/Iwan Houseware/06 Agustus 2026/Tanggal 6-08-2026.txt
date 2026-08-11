@@ -1,0 +1,7 @@
+Tanggal: 6-08-2026
+ Nama PIC/Pemilik : Iwan Houseware
+ Jenis Unit: Laptop
+ Merk/Type Unit : HP 
+ Keluhan :  Kipas rusak
+ Tindakan : Ganti Kipas Prosesor
+ Teknisi : Akbar

@@ -1,0 +1,6 @@
+tanggal: 18 juni 2026
+Nama PIC/Pemilik : Dinas Sosial
+*Jenis Unit :* Laptop
+*Merk/Type Unit :* Asus
+*Keluhan :* -
+*Tindakan* : instalasi laptop asus baru 2 unit

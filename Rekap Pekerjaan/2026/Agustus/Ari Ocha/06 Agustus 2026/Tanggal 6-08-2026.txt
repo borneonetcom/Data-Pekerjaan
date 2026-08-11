@@ -1,0 +1,7 @@
+Tanggal: 6-08-2026
+ Nama PIC/Pemilik : Ari Ocha
+ Jenis Unit: Printer 
+ Merk/Type Unit : Epson L3210
+ Keluhan :  Hasil print kurang bagus
+ Tindakan : Cleaning Printer 
+ Teknisi : Akbar

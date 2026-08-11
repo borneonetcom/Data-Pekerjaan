@@ -1,0 +1,20 @@
+*FORMAT LAPORAN*
+
+Tanggal : 9 Juli 2026
+Nama User : sd 5,8
+Lokasi Pekerjaan : tanjung dekat mtsn 4 tabalong
+
+Keluhan : -
+
+Tindakan : memasang kamera ipcam hikvision 2 buting
+
+Material Yang Terpakai : 
+•kabel lan hikvision 47 meter
+•kamera hikvision indoor 1, outdoor 1
+•konektor lan 2 set 
+•duradus 2 buting
+•poe spliter 2 pasang
+•adaptor 12v 3 ampere
+
+Nama pekerja:maliki, aldi, rindi, pani 
+*Lampirkan foto pekerjaan*

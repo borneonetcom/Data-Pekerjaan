@@ -1,0 +1,14 @@
+*FORMAT LAPORAN*
+
+Tanggal : 20-Juni-2026
+Nama User : H ugi
+Lokasi Pekerjaan : Mabuun
+
+Keluhan :Program kasir ipos tidak bisa login
+
+Tindakan : ganti konektor LAN dan setting ip address
+
+Material Yang Terpakai : -
+
+ nama petugas : Arif,Akbar
+*Lampirkan foto pekerjaan*

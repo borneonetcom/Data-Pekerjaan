@@ -1,0 +1,14 @@
+*FORMAT LAPORAN*
+
+Tanggal : 28 Juli 2026
+Nama User :Amanah mart 
+Lokasi Pekerjaan : Plambon
+
+Keluhan : Client tidak bisa Konek Server 
+
+Tindakan : Menonaktifkan Firewall dan Setting IP Address
+
+Material Yang Terpakai : -
+
+Nama pekerja: Akbar,Pa Arip
+*Lampirkan foto*
