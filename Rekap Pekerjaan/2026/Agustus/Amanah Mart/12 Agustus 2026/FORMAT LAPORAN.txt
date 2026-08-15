@@ -1,0 +1,16 @@
+*FORMAT LAPORAN*
+
+Tanggal : 12-Agustus-2026
+Nama User : Amanah Mart
+Lokasi Pekerjaan : Plambon
+
+Keluhan : Client tidak bisa terhubung ke server (iPos)
+
+Tindakan : 
+- Instal iPos versi yang sama dengan server
+- ⁠mematikan firewall 
+
+Material yang terpakai : -
+
+Nama pekerja: Akbar
+*Lampirkan foto*

@@ -1,0 +1,19 @@
+*FORMAT LAPORAN*
+
+Tanggal : 10 Agustus 2026
+Nama User : H. Surian
+Lokasi Pekerjaan : Dirumah
+
+Keluhan : 1 kamera mati
+
+Tindakan : 
+- pergantian kabel cctv
+- pergantian adaptor kamera ke power supply
+
+Material yang terpakai : 
+- kabel cctv hitam 35 meter
+- power supply Dahua 8 ch
+- konektor satu set 
+
+Nama pekerja: rindi, muthai
+*Lampirkan foto*
