@@ -1,0 +1,10 @@
+*Tanggal:* 15-Agustus-2026
+ *Nama PIC/Pemilik :* Devi kosmetik
+ *Jenis Unit*: UPS
+ *Merk/Type Unit :* -
+ *Keluhan :*  Aki Drop
+ *Hasil Pemeriksaan :* 
+ *Tindakan :* Ganti Aki 
+ *Status :* Selesai
+
+ *Teknisi* : Akbar/Pa matim/Pa kocak
