@@ -1,0 +1,14 @@
+*Tanggal:* 21-Agustus-2026
+ *Nama PIC/Pemilik :* Pa Itab
+ *Jenis Unit*: Laptop
+ *Merk/Type Unit :* Acer Aspire V5
+ *Keluhan :*  - 
+ *Hasil Pemeriksaan :* 
+- Booting Error
+- ⁠Laptop Lemot 
+ *Tindakan*
+- setting bios 
+- ⁠cleaning 
+ *Status :* SELESAI
+
+ *Teknisi* : Akbar

@@ -1,0 +1,14 @@
+*Tanggal:* 21-Agustus-2026
+ *Nama PIC/Pemilik :* Pa Itab
+ *Jenis Unit*: Laptop
+ *Merk/Type Unit :* Asus A442U
+ *Keluhan :*  - 
+ *Hasil Pemeriksaan :* 
+- Booting Error
+- ⁠Laptop Lemot 
+ *Tindakan*
+- setting bios 
+- ⁠cleaning 
+ *Status :* SELESAI
+
+ *Teknisi* : Akbar
