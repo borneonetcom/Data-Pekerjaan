@@ -1,0 +1,10 @@
+*Tanggal:* 28-Agustus-2026
+ *Nama PIC/Pemilik :* Dispora 
+ *Jenis Unit*: ASUS
+ *Merk/Type Unit :* A456U
+ *Keluhan :*  
+- Lupa Password 
+ *Tindakan :* 
+- Instal Ulang Laptop
+*Status :* SELESAI
+ *Teknisi* : Akbar,Arif

@@ -1,0 +1,16 @@
+TANGGAL           : 01 September 2026
+NAMA USER         : -
+LOKASI PEKERJAAN  : Nurul Musthofa 
+
+KELUHAN           : 
+Permintaan setting agar CCTV dapat dipantau melalui HP Android 
+menggunakan aplikasi Hik-Connect
+
+TINDAKAN          : 
+1. Melakukan pengecekan jaringan internet di lokasi. Hasil: Normal
+2. Melakukan registrasi akun Hik-Connect dan add device menggunakan Serial No DVR
+3. Melakukan scan QR Code di aplikasi Hik-Connect
+4. Melakukan test live view 16 channel via HP. Hasil: Normal
+
+
+Nama Petugas:Mounte,Aldi,Maliki

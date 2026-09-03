@@ -1,0 +1,23 @@
+TANGGAL           : 01 September 2026
+NAMA USER         :-
+LOKASI PEKERJAAN :SDN 2 Tanjung
+
+
+KELUHAN           : 
+DVR tidak menyala sama sekali. Lampu indikator mati. 
+Semua kamera di monitor "No Signal". Tidak bisa diakses via HP.
+
+TINDAKAN          : 
+1. Melakukan pengecekan stop kontak dan kabel power DVR
+2. Melakukan pengecekan adaptor 12V DVR. Hasil: Adaptor rusak
+3. Melakukan penggantian adaptor 12V 5A dengan yang baru
+4. Melakukan test nyalakan DVR. Hasil: DVR menyala normal
+5. Melakukan pengecekan HDD dan setting tanggal/jam
+6. Melakukan test semua kamera tampil dan record normal
+7. Melakukan pengecekan akses via HP. Hasil: Normal
+
+MATERIAL YANG TERPAKAI : 
+1. Adaptor 12V 5A         = 1 Pcs
+2. Konektor Bnc = 1 Pcs
+
+Nama Petugas:Aldi,Mounte,Maliki

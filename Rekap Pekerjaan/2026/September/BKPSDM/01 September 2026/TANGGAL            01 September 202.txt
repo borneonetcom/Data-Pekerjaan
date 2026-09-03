@@ -1,0 +1,15 @@
+TANGGAL           : 01 September 2026
+NAMA USER         :-
+LOKASI PEKERJAAN  :BKD Tanjung Selatan 
+
+KELUHAN           : 
+Internet mati total.
+
+TINDAKAN          : 
+1. Melakukan pengecekan di Ruang server. Ditemukan MCB AC posisi OFF
+2. Melakukan pengaktifan kembali MCB. Hasil: Normal tidak jenglek lagi
+3. Melakukan pengecekan koneksi internet. Hasil: Normal
+
+
+
+Nama Petugas:Mounte,Aldi,Maliki

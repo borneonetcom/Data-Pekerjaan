@@ -1,0 +1,16 @@
+*FORMAT LAPORAN*
+
+Tanggal : 27 Agustus 2026
+Nama User : Ibu Nurul Musthofa 
+Lokasi Pekerjaan : Mabuun
+
+Keluhan : kamera offline
+
+Tindakan : 
+- pengecekan dan menyambung kabel LAN dari modem lantai 1 ke switch hub lantai 2
+
+Material yang digunakan : 
+- konektor LAN 6 pcs
+
+Nama pekerja : Akbar, maliki, Pani, rindi
+*Lampirkan foto*

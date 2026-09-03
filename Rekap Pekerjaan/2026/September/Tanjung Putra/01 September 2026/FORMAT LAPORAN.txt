@@ -1,0 +1,14 @@
+TANGGAL           : 01 September 2026
+NAMA USER         :-
+LOKASI PEKERJAAN  : Tanjung Putra
+
+KELUHAN           : 
+Mesin menyala tetapi status Offline. 
+Tidak bisa diakses via HP.
+
+TINDAKAN          : 
+1. Melakukan restart DVR agar mendapatkan IP baru secara otomatis 
+   dari Router/Mikrotik
+
+
+Nama Petugas:Aldi,Mounte,Maliki
