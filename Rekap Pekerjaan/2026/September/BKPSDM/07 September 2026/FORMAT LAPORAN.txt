@@ -1,0 +1,13 @@
+*Tanggal:* 5-September-2026
+ *Nama PIC/Pemilik :* BPKSDM(Zahra)
+ *Jenis Unit*: Laptop
+ *Merk/Type Unit :* Asus A416
+ *Keluhan :*  Laptop Lemot,Loading Lambat
+
+ *Hasil Pemeriksaan :* Kesehatan SSD 10%
+
+ *Tindakan* : Ganti SSD
+
+ *Status :* SELESAI
+
+ *Teknisi* : Akbar,Arip

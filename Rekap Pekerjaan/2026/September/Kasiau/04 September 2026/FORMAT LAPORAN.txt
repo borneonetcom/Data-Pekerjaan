@@ -1,0 +1,20 @@
+*FORMAT LAPORAN*
+
+Tanggal : 4 September 2026
+Nama User : 
+Lokasi Pekerjaan : Kasiau 
+
+Keluhan : -
+
+Tindakan : 
+- Penarikan kabel fiber untuk mengkonekan innternet
+
+Material yang terpakai : 
+- Kabel Fiber 200m
+- Switch hub
+- HTB hijau
+- Kabel Listrik 2m
+- Stop Kontak 
+- Kepala Colokan 
+
+Nama pekerja: om idar, muti

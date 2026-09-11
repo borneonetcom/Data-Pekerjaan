@@ -1,0 +1,28 @@
+LAPORAN PEKERJAAN
+
+TANGGAL           : Sabtu, 05 September 2026
+LOKASI            : BPKAD
+NAMA USER         : -
+KELUHAN           : -
+
+TINDAKAN YANG DILAKUKAN:
+1. Pemasangan baru IP Camera sebanyak 10 pcs
+2. Pemasangan baru Kamera Analog sebanyak 5 pcs
+3. Rekposisi Kamera sebanyak 8 titik
+4. Penarikan Kabel Analog baru sepanjang 329 meter
+5. Penarikan Kabel LAN Belden 45 meter & Kabel LAN Hikvision Cat 6 305 meter
+6. Pemasangan Braket + TV
+
+MATERIAL YANG TERPAKAI:
+1. Kabel LAN Belden 45 meter, Kabel Hikvision Cat 6 305 meter
+2. Kabel Analog warna hitam 329 meter
+3. Kamera Proview Outdoor 3 unit, Indoor 2 unit
+4. Kamera Hikvision Indoor 15 unit, Outdoor 1 unit
+5. Extender HDMI 1x2
+6. Kabel HDMI 1.5 meter
+7. Extender LAN to HDMI 1 pasang
+8. Stop Kontak 4 lubang, Kabel Listrik Serabut 4 meter
+9. Mesin Hikvision 32 Channel
+10. PoE Switch 16 port & 8 port
+11. Harddisk 4TB
+12. Duradus 9 pcs
