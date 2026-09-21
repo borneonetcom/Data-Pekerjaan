@@ -1,0 +1,20 @@
+*FORMAT LAPORAN*
+
+Tanggal : 7 September 2026
+Nama User : H. Sani
+Lokasi Pekerjaan : Mabuun
+
+Keluhan : kamera banyak yang mati
+
+Tindakan : 
+- pengecekan, konektor LAN dari hub ke mesin longgar diruangan bos
+- di pos depan, power kamera dijumper
+- di Nasdem pergantian konektor bnc, menyambung kabel cctv dan power supply 4 ch
+
+Material yang digunakan : 
+- adaptor 12V 2A
+- konektor bnc 1
+- power supply 4 ch 
+
+Nama pekerja : Maliki, rindi
+*Lampirkan foto*
